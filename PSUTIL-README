@@ -1,0 +1,6 @@
+The following packages are needed to use PSUTIL:
+
+wget https://bootstrap.pypa.io/get-pip.py
+sudo python get-pip.py
+sudo apt-get install gcc python-dev
+sudo pip install psutil
